@@ -48,8 +48,51 @@ for i in d.values():
 
 # Ex 47:
 
-lista1 = ['Corínthians', 'Ral Madrid', 'River Plate', 'Milan']
+'''lista1 = ['Corínthians', 'Ral Madrid', 'River Plate', 'Milan']
 lista2 = ['Brasileirão', 'La Liga', 'Argentino', 'SerieA']
 dicionário = dict(keys = lista1, values = lista2)
 print(dicionário)
-print(type(dicionário))
+print(type(dicionário))'''
+
+#   Ex 48:
+
+'''cadastro = { 'Nome':'Almeida',
+             'Idade':22,
+             'Sexo':'Masculino',
+             'Estado Civil':'Divorciado',
+             'Nacionalidade':'Brasileiro',
+             'Faixa de Renda':'3000.00 - 5000.00'}
+print(cadastro)'''
+
+#   Ex 49:
+#   Minha tentativa:
+
+'''aluno = {'Nome':'João',
+         'Primeiro Trimestre':7.6,
+         'Segundo Trimestre':9,
+         'Terceiro Trimestre':7.2}
+média = {'Nome':' ',
+         'Média':0}
+m = 0
+for i in aluno.values():
+    if type(i) == float or type(i) == int:
+        m += i
+print(m/3)'''
+
+#   Resolução do livro:
+
+aluno = [{'Nome':'Fernando','Notas':[62,73,90]}]
+
+def calcula_media(aluno):
+    notas = []
+    for media in aluno:
+        if len(media['Notas']) > 0:
+            temp = round(sum(media['Notas']))/len(media['Notas'])
+        else:
+            temp = 0
+        notas.append({'Nome':media['Nome'],'Média das notas':temp})
+    print(notas)
+    print(type(notas), type(aluno))
+
+media_estudante = calcula_media(aluno)
+
