@@ -67,32 +67,31 @@ print(cadastro)'''
 #   Ex 49:
 #   Minha tentativa:
 
-'''aluno = {'Nome':'João',
-         'Primeiro Trimestre':7.6,
-         'Segundo Trimestre':9,
-         'Terceiro Trimestre':7.2}
-média = {'Nome':' ',
-         'Média':0}
+'''aluno = [{'nome':'João', 'notas': [8, 6, 9]}]
 m = 0
-for i in aluno.values():
-    if type(i) == float or type(i) == int:
-        m += i
-print(m/3)'''
+for i in aluno[0]['notas']:
+    m += i
+aluno[0]['média'] = m/3
+print(f'A média das notas do aluno {aluno[0]['nome']} é: {aluno[0]['média']:.2f}')
+print(aluno)'''
 
 #   Resolução do livro:
 
-aluno = [{'Nome':'Fernando','Notas':[62,73,90]}]
+aluno = [{'Nome':'Fernando','Notas':[62,73,90]},
+         {'Nome':'Leonardo','Notas':[42,73,90]},
+         {'Nome':'Reinaldo','Notas':[78,75,97]}]
 
-def calcula_media(aluno):
+def calcula_media(aluno): # Muito interessante. Aqui parece que vejo pela primeira vez uma função (ou procedimento) em Python!
     notas = []
     for media in aluno:
         if len(media['Notas']) > 0:
-            temp = round(sum(media['Notas']))/len(media['Notas'])
+            temp = round(sum(media['Notas'])/len(media['Notas'])) # Pesquisei e descobri que a função 'round' arredonda os números e a função 'sum' soma os elementos de uma lista. Então, aqui a variável temp está recebendo
         else:
             temp = 0
         notas.append({'Nome':media['Nome'],'Média das notas':temp})
     print(notas)
-    print(type(notas), type(aluno))
 
 media_estudante = calcula_media(aluno)
 
+#   Obs.: Modifiquei um pouco o exercício do professor, colocando mais alunos para ver o programa
+# funcionando com mais dados.

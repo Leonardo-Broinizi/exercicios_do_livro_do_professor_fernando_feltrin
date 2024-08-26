@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad4b9c68-24c2-4865-949f-516d97481399" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exercicios/ex048.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/praticas_e_anotacoes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/ex044_dicionario_via_metodo_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex044-47_algumas_operacoes_com_dicionario.py" afterDir="false" />
+    <list default="true" id="ad4b9c68-24c2-4865-949f-516d97481399" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/exercicios/ex050.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex044-47_algumas_operacoes_com_dicionario.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex044-49_algumas_operacoes_com_dicionario.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex048.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/praticas_e_anotacoes.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/praticas_e_anotacoes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,15 +46,17 @@
     "Python.ex037_043_algumas_operacoes_com_lista.executor": "Run",
     "Python.ex037_fstring.executor": "Run",
     "Python.ex044-47_algumas_operacoes_com_dicionario (1).executor": "Run",
+    "Python.ex044-49_algumas_operacoes_com_dicionario (1).executor": "Run",
     "Python.ex044_dicionario_via_metodo_dict.executor": "Run",
     "Python.ex048.executor": "Run",
+    "Python.ex050 (1).executor": "Run",
     "Python.praticas_e_anotacoes.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.ex044-47_algumas_operacoes_com_dicionario (1)">
-    <configuration name="ex037_043_algumas_operacoes_com_lista" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ex050 (1)">
+    <configuration name="ex044-49_algumas_operacoes_com_dicionario (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,7 +69,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\leona\pycharm_projects.exercicios_do_livro_do_professor_feltrin\pythonProject\exercicios\ex037_043_algumas_operacoes_com_lista.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/ex044-49_algumas_operacoes_com_dicionario.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -76,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex044-47_algumas_operacoes_com_dicionario (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex044-49_algumas_operacoes_com_dicionario" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -89,7 +91,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/ex044-47_algumas_operacoes_com_dicionario.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\leona\pycharm_projects.exercicios_do_livro_do_professor_feltrin\pythonProject\exercicios\ex044-49_algumas_operacoes_com_dicionario.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -98,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex044-47_algumas_operacoes_com_dicionario" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex044-49_algumas_operacoes_com_dicionario" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,7 +113,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\leona\pycharm_projects.exercicios_do_livro_do_professor_feltrin\pythonProject\exercicios\ex044-47_algumas_operacoes_com_dicionario.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\leona\pycharm_projects.exercicios_do_livro_do_professor_feltrin\pythonProject\exercicios\ex044-49_algumas_operacoes_com_dicionario.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex048" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex050 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -133,7 +135,29 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/ex048.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/ex050.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex050" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercicios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\leona\pycharm_projects.exercicios_do_livro_do_professor_feltrin\pythonProject\exercicios\ex050.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,11 +212,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex044-47_algumas_operacoes_com_dicionario (1)" />
+        <item itemvalue="Python.ex050 (1)" />
+        <item itemvalue="Python.ex044-49_algumas_operacoes_com_dicionario (1)" />
+        <item itemvalue="Python.ex044-49_algumas_operacoes_com_dicionario" />
+        <item itemvalue="Python.ex050" />
         <item itemvalue="Python.praticas_e_anotacoes" />
-        <item itemvalue="Python.ex048" />
-        <item itemvalue="Python.ex044-47_algumas_operacoes_com_dicionario" />
-        <item itemvalue="Python.ex037_043_algumas_operacoes_com_lista" />
       </list>
     </recent_temporary>
   </component>
@@ -223,6 +247,17 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="." />
     <option name="LAST_COMMIT_MESSAGE" value="." />
@@ -239,6 +274,11 @@
           <url>file://$PROJECT_DIR$/exercicios/ex036_palindromo_str.py</url>
           <line>2</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exercicios/ex044-49_algumas_operacoes_com_dicionario.py</url>
+          <line>86</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
