@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad4b9c68-24c2-4865-949f-516d97481399" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/exercicios/ex050.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/ex044-47_algumas_operacoes_com_dicionario.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex044-49_algumas_operacoes_com_dicionario.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/ex048.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/praticas_e_anotacoes.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/praticas_e_anotacoes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex050.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex050.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,25 +34,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.ex001-010.executor": "Run",
-    "Python.ex001.executor": "Run",
-    "Python.ex030-0.executor": "Run",
-    "Python.ex031-0.executor": "Run",
-    "Python.ex036_palindromo_str.executor": "Run",
-    "Python.ex037_043_algumas_operacoes_com_lista.executor": "Run",
-    "Python.ex037_fstring.executor": "Run",
-    "Python.ex044-47_algumas_operacoes_com_dicionario (1).executor": "Run",
-    "Python.ex044-49_algumas_operacoes_com_dicionario (1).executor": "Run",
-    "Python.ex044_dicionario_via_metodo_dict.executor": "Run",
-    "Python.ex048.executor": "Run",
-    "Python.ex050 (1).executor": "Run",
-    "Python.praticas_e_anotacoes.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.ex001-010.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex030-0.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex031-0.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex036_palindromo_str.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex037_043_algumas_operacoes_com_lista.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex037_fstring.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex044-47_algumas_operacoes_com_dicionario (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex044-49_algumas_operacoes_com_dicionario (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex044_dicionario_via_metodo_dict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex048.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex050 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.praticas_e_anotacoes.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.ex050 (1)">
     <configuration name="ex044-49_algumas_operacoes_com_dicionario (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
