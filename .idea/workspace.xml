@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad4b9c68-24c2-4865-949f-516d97481399" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/exercicios/ex051_funcao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programas_que_mais_gostei_nesse_livro/ex036_palindromo_com_string.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/ex050.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex050.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex001-030.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/01_primeiros_passos_classicos/ex001-030.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex031-035.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/01_primeiros_passos_classicos/ex031-035.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex036_palindromo_str.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/01_primeiros_passos_classicos/ex036_palindromo_str.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex037_043_algumas_operacoes_com_lista.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/02_listas_e_dicionarios/ex037_043_algumas_operacoes_com_lista.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex044-49_algumas_operacoes_com_dicionario.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/02_listas_e_dicionarios/ex044-49_algumas_operacoes_com_dicionario.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex050.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/02_listas_e_dicionarios/ex050_quiz_perguntas_e_respostas_.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercicios/praticas_e_anotacoes.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/praticas_e_anotacoes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programas_que_mais_gostei_nesse_livro/ex050_quiz_perguntas_e_respostas.py" beforeDir="false" afterPath="$PROJECT_DIR$/programas_que_mais_gostei_nesse_livro/ex050_quiz_perguntas_e_respostas.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +48,7 @@
     "Python.ex001.executor": "Run",
     "Python.ex030-0.executor": "Run",
     "Python.ex031-0.executor": "Run",
+    "Python.ex036_palindromo_com_string.executor": "Run",
     "Python.ex036_palindromo_str.executor": "Run",
     "Python.ex037_043_algumas_operacoes_com_lista.executor": "Run",
     "Python.ex037_fstring.executor": "Run",
@@ -51,6 +58,8 @@
     "Python.ex048.executor": "Run",
     "Python.ex050 (1).executor": "Run",
     "Python.ex050_quiz_perguntas_e_respostas.executor": "Run",
+    "Python.ex050_quiz_perguntas_e_respostas_.executor": "Run",
+    "Python.ex051_funcao.executor": "Run",
     "Python.praticas_e_anotacoes.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -61,9 +70,13 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\leona\pycharm_projects.exercicios_do_livro_do_professor_feltrin\pythonProject\programas_que_mais_gostei_nesse_livro" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\leona\pycharm_projects.exercicios_do_livro_do_professor_feltrin\pythonProject\exercicios\02_listas_e_dicionarios" />
+      <recent name="C:\Users\leona\pycharm_projects.exercicios_do_livro_do_professor_feltrin\pythonProject\exercicios\primeiros_passos_simples" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.ex050 (1)">
-    <configuration name="ex044-49_algumas_operacoes_com_dicionario (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ex051_funcao">
+    <configuration name="ex036_palindromo_com_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -72,11 +85,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercicios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programas_que_mais_gostei_nesse_livro" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/ex044-49_algumas_operacoes_com_dicionario.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programas_que_mais_gostei_nesse_livro/ex036_palindromo_com_string.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,50 +112,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="C:\Users\leona\pycharm_projects.exercicios_do_livro_do_professor_feltrin\pythonProject\exercicios\ex044-49_algumas_operacoes_com_dicionario.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex044-49_algumas_operacoes_com_dicionario" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercicios" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\leona\pycharm_projects.exercicios_do_livro_do_professor_feltrin\pythonProject\exercicios\ex044-49_algumas_operacoes_com_dicionario.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex050 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercicios" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/ex050.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,6 +134,50 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programas_que_mais_gostei_nesse_livro/ex050_quiz_perguntas_e_respostas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex050_quiz_perguntas_e_respostas_" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercicios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\leona\pycharm_projects.exercicios_do_livro_do_professor_feltrin\pythonProject\exercicios\02_listas_e_dicionarios\ex050_quiz_perguntas_e_respostas_.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex051_funcao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercicios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/ex051_funcao.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,11 +232,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex050 (1)" />
+        <item itemvalue="Python.ex051_funcao" />
+        <item itemvalue="Python.ex036_palindromo_com_string" />
         <item itemvalue="Python.ex050_quiz_perguntas_e_respostas" />
+        <item itemvalue="Python.ex050_quiz_perguntas_e_respostas_" />
         <item itemvalue="Python.praticas_e_anotacoes" />
-        <item itemvalue="Python.ex044-49_algumas_operacoes_com_dicionario (1)" />
-        <item itemvalue="Python.ex044-49_algumas_operacoes_com_dicionario" />
       </list>
     </recent_temporary>
   </component>
@@ -278,12 +291,12 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/exercicios/ex036_palindromo_str.py</url>
+          <url>file://$PROJECT_DIR$/exercicios/01_primeiros_passos_classicos/ex036_palindromo_str.py</url>
           <line>2</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/exercicios/ex044-49_algumas_operacoes_com_dicionario.py</url>
+          <url>file://$PROJECT_DIR$/exercicios/02_listas_e_dicionarios/ex044-49_algumas_operacoes_com_dicionario.py</url>
           <line>86</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>

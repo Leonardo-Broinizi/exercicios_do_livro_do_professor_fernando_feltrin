@@ -17,7 +17,9 @@ print(f'Você acertou {acertos} questões!')
 
 #   Minha segunda versão (mais caprichada):
 #   Obs.: Não apenas pelo capricho, mas gostei mais desse meu segundo código até do que do
-# código do professor Feltrin.
+# código do professor Feltrin, embora o código dele tenha colocado tudo (número da pergunta, pergunta,
+# alternativas e resposta correta) dentro de um dicionário, e com dicionários dentro, e tenha me
+# ajudado a entender mais algumas possibilidades de manipulação de dicionários.
 
 
 print('\033[1m' + '\033[34m-\033[33m=' * 21 + '\033[34m-')

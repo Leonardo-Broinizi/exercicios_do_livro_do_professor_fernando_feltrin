@@ -20,6 +20,11 @@ soma = sum(lista)
 print(soma)
 dicio = {'a': 23, 'b': 23, 'c': 23, 'diferente': 23}
 soma = sum(dicio.values())
-print(soma)'''
+print(soma)
 
-print('\033[1;34mESSE')
+print('\033[1;34mESSE')'''
+
+#   É possível acessar chaves e valores em um dicionário atravar de um for declarando os dois sobre o dicionário.items():
+'''dicio = {'A1':'A2','B1':'B2','C1':'C2','D1':'D2'}
+for chave, valor in dicio.items():
+    print(f'Chave: {chave};\nValor: {valor}')'''

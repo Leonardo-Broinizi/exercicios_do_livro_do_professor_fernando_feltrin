@@ -29,7 +29,7 @@ num1 = 103
 num2 = 89
 print(num1 > num2) # Ex017, gerará True
 
-# Ex021: Duas formas de excrever uma estrutura condicional composta:
+# Ex021: Duas formas de escrever uma estrutura condicional composta:
 num1 = 100
 num2 = 89
 print(num1 <= 100 and num2 <= 100)
