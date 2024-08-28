@@ -4,7 +4,7 @@
 
 #   Minha primeira versão:
 
-'''pr = {'Quem descobriu a América? ' : 'Cristovão Colombo', 'Quem descobriu o Brasil? ' : 'Pedro Álvares Cabral', 'Em qual ano o Brasil foi descoberto? ': '1500', 'Qual é o ano da proclamação da República Federativa do Brasil? ': '1889'}
+pr = {'Quem descobriu a América? ' : 'Cristovão Colombo', 'Quem descobriu o Brasil? ' : 'Pedro Álvares Cabral', 'Em qual ano o Brasil foi descoberto? ': '1500', 'Qual é o ano da proclamação da República Federativa do Brasil? ': '1889'}
 acertos = 0
 for respostas in pr.keys():
     r = str(input(respostas)).strip()
@@ -13,9 +13,13 @@ for respostas in pr.keys():
         acertos += 1
     else:
         print('Restosta errada!')
-print(f'Você acertou {acertos} questões!')'''
+print(f'Você acertou {acertos} questões!')
 
 #   Minha segunda versão (mais caprichada):
+#   Obs.: Não apenas pelo capricho, mas gostei mais desse meu segundo código até do que do
+# código do professor Feltrin.
+
+
 print('\033[1m' + '\033[34m-\033[33m=' * 21 + '\033[34m-')
 print(f'{'\033[31m> > > \033[35mQUIZ DE HISTÓRIA \033[31m< < <':^59}')
 print('\033[34m-\033[33m=' * 21 + '\033[34m-\n')
@@ -47,7 +51,7 @@ for c, perguntas in enumerate(pr):
     while True:
         res = str(input(f'\n\033[33mResposta: ')).strip().upper()
         if res not in 'ABCD':
-            print('Resposta inválida! Tente novamente.')
+            print('\n\033[31mResposta inválida! Tente novamente.')
         else:
             break
     print('\033[32mAnalisando...')
@@ -59,13 +63,52 @@ for c, perguntas in enumerate(pr):
     else:
         print('\033[m\033[1mQue pena, resposta \033[31mERRADA!\n')
         sleep(1)
-print(f'Você acertou {pontos} de 10 questões.')
+print(f'\033[33mVocê acertou {pontos} de 10 questões.')
 if pontos < 5:
-    print('Pontuação baixa. Estude mais para melhorar sua pontuação.')
+    print('\033[31mPontuação baixa. Estude mais para melhorar sua pontuação.')
 elif pontos < 7:
-    print('Pontuação regular. Estude mais um pouco para melhorar sua pontuação.')
+    print('\033[32mPontuação regular. Estude mais um pouco para melhorar sua pontuação.')
 elif pontos < 10:
-    print('Pontuação alta. Parabéns! Com mais um pouco de estudos você pode conseguir 10.')
+    print('\033[36mPontuação alta. Parabéns! Com mais um pouco de estudos você pode conseguir 10.')
 else:
-    print('PARABÉNS, você acertou tudo!')
+    print('\033[34mPARABÉNS, você acertou tudo!')
+
+
+
 #   Código do professor Feltrin:
+
+base = {
+    'Pergunta 01 ': {
+        'pergunta':' Quanto é 4 X 4 ?',
+        'alternativas':{'a':'12','b':'24','c':'16','d':'20'},
+        'resposta_certa':'c',
+    },
+    'Pergunta 02 ' :{
+        'pergunta':' Quanto é 6 / 3 ? ',
+        'alternativas':{'a':'2','b':'1','c':'3','d':'4'},
+        'resposta_certa':'a',
+    },
+}
+
+respostas_certas = 0
+
+for pkeys, pvalues in base.items():
+    print(f'{pkeys}:{pvalues['pergunta']}')
+
+    for rkeys, rvalues in pvalues['alternativas'].items():
+        print(f'[{rkeys}]: {rvalues}')
+
+    resposta = input('Escolha uma alternativa: [a],[b],[c] ou [d]')
+
+    if resposta == pvalues['resposta_certa']:
+        print('Resposta Correta!!!')
+        respostas_certas += 1
+    else:
+        print('Resposta Incorreta!!!')
+
+if respostas_certas == 0:
+    print('Você não acertou nenhuma questão.')
+elif respostas_certas == 1:
+    print('Você acertou apenas uma questão.')
+else:
+    print('Você acertou todas as questões.')

@@ -21,3 +21,5 @@ print(soma)
 dicio = {'a': 23, 'b': 23, 'c': 23, 'diferente': 23}
 soma = sum(dicio.values())
 print(soma)'''
+
+print('\033[1;34mESSE')

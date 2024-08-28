@@ -7,6 +7,8 @@
     <list default="true" id="ad4b9c68-24c2-4865-949f-516d97481399" name="Changes" comment=".">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercicios/ex050.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex050.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/praticas_e_anotacoes.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/praticas_e_anotacoes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programas_que_mais_gostei_nesse_livro/ex050_quiz_perguntas_e_respostas.py" beforeDir="false" afterPath="$PROJECT_DIR$/programas_que_mais_gostei_nesse_livro/ex050_quiz_perguntas_e_respostas.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,25 +36,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.ex001-010.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex030-0.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex031-0.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex036_palindromo_str.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex037_043_algumas_operacoes_com_lista.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex037_fstring.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex044-47_algumas_operacoes_com_dicionario (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex044-49_algumas_operacoes_com_dicionario (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex044_dicionario_via_metodo_dict.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex048.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex050 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.praticas_e_anotacoes.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.ex001-010.executor": "Run",
+    "Python.ex001.executor": "Run",
+    "Python.ex030-0.executor": "Run",
+    "Python.ex031-0.executor": "Run",
+    "Python.ex036_palindromo_str.executor": "Run",
+    "Python.ex037_043_algumas_operacoes_com_lista.executor": "Run",
+    "Python.ex037_fstring.executor": "Run",
+    "Python.ex044-47_algumas_operacoes_com_dicionario (1).executor": "Run",
+    "Python.ex044-49_algumas_operacoes_com_dicionario (1).executor": "Run",
+    "Python.ex044_dicionario_via_metodo_dict.executor": "Run",
+    "Python.ex048.executor": "Run",
+    "Python.ex050 (1).executor": "Run",
+    "Python.ex050_quiz_perguntas_e_respostas.executor": "Run",
+    "Python.praticas_e_anotacoes.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/leona/pycharm_projects.exercicios_do_livro_do_professor_feltrin/pythonProject/programas_que_mais_gostei_nesse_livro"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\leona\pycharm_projects.exercicios_do_livro_do_professor_feltrin\pythonProject\programas_que_mais_gostei_nesse_livro" />
+    </key>
+  </component>
   <component name="RunManager" selected="Python.ex050 (1)">
     <configuration name="ex044-49_algumas_operacoes_com_dicionario (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
@@ -142,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex050" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex050_quiz_perguntas_e_respostas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -151,11 +160,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercicios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programas_que_mais_gostei_nesse_livro" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\leona\pycharm_projects.exercicios_do_livro_do_professor_feltrin\pythonProject\exercicios\ex050.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programas_que_mais_gostei_nesse_livro/ex050_quiz_perguntas_e_respostas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -211,10 +220,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.ex050 (1)" />
+        <item itemvalue="Python.ex050_quiz_perguntas_e_respostas" />
+        <item itemvalue="Python.praticas_e_anotacoes" />
         <item itemvalue="Python.ex044-49_algumas_operacoes_com_dicionario (1)" />
         <item itemvalue="Python.ex044-49_algumas_operacoes_com_dicionario" />
-        <item itemvalue="Python.ex050" />
-        <item itemvalue="Python.praticas_e_anotacoes" />
       </list>
     </recent_temporary>
   </component>
