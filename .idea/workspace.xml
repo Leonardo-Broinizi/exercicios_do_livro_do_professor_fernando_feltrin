@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad4b9c68-24c2-4865-949f-516d97481399" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/exercicios/ex051_funcao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programas_que_mais_gostei_nesse_livro/ex036_palindromo_com_string.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/ex001-030.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/01_primeiros_passos_classicos/ex001-030.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/ex031-035.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/01_primeiros_passos_classicos/ex031-035.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/ex036_palindromo_str.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/01_primeiros_passos_classicos/ex036_palindromo_str.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/ex037_043_algumas_operacoes_com_lista.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/02_listas_e_dicionarios/ex037_043_algumas_operacoes_com_lista.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/ex044-49_algumas_operacoes_com_dicionario.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/02_listas_e_dicionarios/ex044-49_algumas_operacoes_com_dicionario.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/ex050.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/02_listas_e_dicionarios/ex050_quiz_perguntas_e_respostas_.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/praticas_e_anotacoes.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/praticas_e_anotacoes.py" afterDir="false" />
-    </list>
+    <list default="true" id="ad4b9c68-24c2-4865-949f-516d97481399" name="Changes" comment="." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
