@@ -29,7 +29,7 @@ pr = {'1 - Quem descobriu o Brasil?': ['A: Pero Vaz de Caminha', 'B: Luís de Ca
       '2 - Quem descobriu a América?': ['A: Pedro Américo', 'B: Cristóvão Colombo', 'C: Pedro Álvares Cabral', 'D: Simón Bolívar'],
       '3 - Nome de nossa terra atribuído por algumas tribos indígenas, no período anterior à chegada dos portugueses ao Brasil:' : ['A: Terra do Pau Brasil', 'B: Terra dos Papagaios', 'C: Pindorama', 'D: Terra de Santa Cruz'],
       '4 - Quando foi firmado o Tradado de Tordesilhas?' : ['A: 1 de janeiro de 1593', 'B: 7 de junho de 1494', 'C: 22 de abril de 1500', 'D: 12 de outubro de 1492'],
-      '5 - Qual a data do dia do "Fico", dia em D. Pedro I declarou que não cumpriria as ordens das Cortes portuguesas?': ['A: 9 de janeiro de 1822', 'B: 9 de janeiro de 1832', 'C: 9 de janeiro de 1722', 'D: 9 de janeiro de 1852'],
+      '5 - Qual a data do dia do "Fico", dia em que D. Pedro I declarou que não cumpriria as ordens das Cortes portuguesas?': ['A: 9 de janeiro de 1822', 'B: 9 de janeiro de 1832', 'C: 9 de janeiro de 1722', 'D: 9 de janeiro de 1852'],
       '6 - Em que ano foi assinada a Lei Áurea no Brasil?' : ['A: 1889', 'B: 1888', 'C: 1788', 'D: 1887'],
       '7 - Onde ocorreu a Guerra dos Canudos?' : ['A: Interior de São Paulo, entre os anos de 1896 e 1899', 'B: Interior da Bahia, entre os anos de 1896 e 1897', 'C: Interior do Rio de Janeiro, entre os anos de 1897 e 1899', 'D: Interior do Rio Grande do Sul, entre os anos de 1896 e 1899'],
       '8 - Quem foi Napoleão Bonaparte?' : ['A: Imperador francês', 'B: Imperador português', 'C: Imperador polonês', 'D: Imperador grego'],
